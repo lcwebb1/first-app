@@ -1,8 +1,8 @@
 {
-  "name": "app.js",
+  "name": "testsite.html",
   "version": "1.0.0",
   "description": "test app",
-  "main": "app.js",
+  "main": "testsite.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "openshift": "nodeshift --expose --dockerImage=registry.access.redhat.com/rhscl/ubi8/nodejs-12",
